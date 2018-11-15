@@ -8,4 +8,4 @@ Unity项目
 
 美术部分：先一律使用简笔画代替  
 
-具体记录在[这里](https://github.com/Neptune0o0/WarGame/blob/master/Test.txt)
+修改具体记录在[这里](https://github.com/Neptune0o0/WarGame/blob/master/Test.txt)
